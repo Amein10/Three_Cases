@@ -1,0 +1,30 @@
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\bin\Debug\net6.0\The_Three_Cases.exe
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\bin\Debug\net6.0\The_Three_Cases.deps.json
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\bin\Debug\net6.0\The_Three_Cases.runtimeconfig.json
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\bin\Debug\net6.0\The_Three_Cases.dll
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\bin\Debug\net6.0\The_Three_Cases.pdb
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.csproj.AssemblyReference.cache
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.AssemblyInfoInputs.cache
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.AssemblyInfo.cs
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.csproj.CoreCompileInputs.cache
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.dll
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\refint\The_Three_Cases.dll
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.pdb
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.genruntimeconfig.cache
+C:\Users\Amein\Documents\Visual Studio 2022\2x. Alexander Zanfir\Learning C# (2018)\1. C# Basics\13_Arrays\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\ref\The_Three_Cases.dll
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\bin\Debug\net6.0\The_Three_Cases.exe
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\bin\Debug\net6.0\The_Three_Cases.deps.json
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\bin\Debug\net6.0\The_Three_Cases.runtimeconfig.json
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\bin\Debug\net6.0\The_Three_Cases.dll
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\bin\Debug\net6.0\ref\The_Three_Cases.dll
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\bin\Debug\net6.0\The_Three_Cases.pdb
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.csproj.AssemblyReference.cache
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.AssemblyInfoInputs.cache
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.AssemblyInfo.cs
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.csproj.CoreCompileInputs.cache
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.dll
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\ref\The_Three_Cases.dll
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.pdb
+C:\Users\amesai\Desktop\The_Three_Cases\The_Three_Cases\obj\Debug\net6.0\The_Three_Cases.genruntimeconfig.cache
